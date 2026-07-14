@@ -5,7 +5,7 @@
 ---
 
 ## 🔹 About Me  
-I am a Senior Systems Engineer at Infosys with 3+ years of experience in data engineering, requirement analysis, and delivering reliable end-to-end solutions. My work spans SQL, AWS, ETL pipelines, automation, and manual/API testing. I focus on building scalable systems, optimizing processes, and ensuring high-quality project outcomes through strong problem-solving and collaboration.
+I am a Technology Analyst at Infosys with 4+ years of experience in data engineering, requirement analysis, and delivering reliable end-to-end solutions. My work spans SQL, AWS, ETL pipelines, automation, and manual/API testing. I focus on building scalable systems, optimizing processes, and ensuring high-quality project outcomes through strong problem-solving and collaboration.
 
 I am passionate about data analytics and enjoy transforming raw data into meaningful insights that support smarter business decisions. I love exploring datasets, identifying patterns, and uncovering trends to solve real-world problems. With skills in SQL, Excel, Python, and data visualization, I focus on turning complex information into clear, actionable insights. I am always excited to learn new analytical techniques and tools, build dashboards, automate reports, and contribute to data-driven decision-making that improves efficiency and adds value.
 
